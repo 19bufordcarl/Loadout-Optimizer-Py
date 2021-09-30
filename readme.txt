@@ -13,12 +13,6 @@ Deplete the enemy's shields to win, or have your own depleted in a crushing defe
 
 Enjoy!
 
-Installation:
-
-Simply extract the tp3.zip folder to an empty directory and run the __init__.py file 
-in the main directory.  All data, media, etc are included in the zip and no external 
-installations are required.
-
 Misc:
 
 There are two shortcut commands 
